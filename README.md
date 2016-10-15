@@ -124,7 +124,7 @@ Fork the repo on GitHub.com, following the official guides:
 
 Clone the repo using this page URL:
 
-    git clone git@github.com:nullhack/bitcoin-raw-block-reader.git
+    git clone git@github.com:YOUR_LOGIN/bitcoin-raw-block-reader.git
 
 **Step 3**: Adding the Upstream Remote
 
