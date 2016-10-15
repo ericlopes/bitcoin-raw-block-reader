@@ -1,0 +1,4 @@
+Just Write the lines of code like:
+>>> from block_reader import metadata
+>>> metadata.license
+'GPLv3'
